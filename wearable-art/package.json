@@ -1,0 +1,20 @@
+{
+  "name": "wearable-art",
+  "version": "1.0.0",
+  "description": "MJML Email: Wearable Art",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Enoch Johnson",
+  "license": "ISC",
+  "dependencies": {
+    "browser-sync": "^2.26.7",
+    "mjml": "^4.6.3",
+    "save-dev": "0.0.1-security"
+  },
+  "devDependencies": {
+    "gulp": "^4.0.2",
+    "gulp-mjml": "^4.0.2"
+  }
+}

@@ -1,0 +1,198 @@
+<mjml>
+  <mj-head>
+    <mj-title>
+      Wearable Art
+    </mj-title>
+  </mj-head>
+  <mj-body>
+    <!--Header-->
+    <mj-section>
+      <mj-column>
+        <mj-text align="center" font-family="Arial, sans-serif" font-size="25px" letter-spacing="2px" text-transform="uppercase">
+          Wearable Art
+        </mj-text>
+      </mj-column>
+    </mj-section>
+    <!--New Season-->
+    <mj-section>
+      <mj-column>
+        <mj-image src="https://images.unsplash.com/photo-1456553583670-f4242f36d0fc?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&w=1000&q=80" />
+      </mj-column>
+      <mj-column padding="50px 0 0 25px" background-color="#4E53CA">
+        <mj-text color="white" font-family="Arial, sans-serif" font-size="16px" line-height="20px" padding-bottom="15px">
+          NEW COLORS
+        </mj-text>
+        <mj-text color="white" font-family="Arial, sans-serif" font-size="52px" font-weight="bold">
+          NEW
+        </mj-text>
+        <mj-text color="white" font-family="Arial, sans-serif" font-size="52px" font-weight="bold" padding-bottom="20px">
+          SEASON
+        </mj-text>
+        <mj-text color="#d2d4ff" font-family="'Raleway', Arial,sans-serif" font-size="14px" line-height="24px" padding-bottom="20px">
+          We are committed to your satisfaction with every order.
+        </mj-text>
+        <mj-button href="#" font-family="'Raleway', Arial,sans-serif" font-size="14px" line-height="18px" padding="10px" background-color="white" font-weight="bold" color="#4E53CA" padding-right="105px">
+          SHOP NOW
+        </mj-button>
+      </mj-column>
+    </mj-section>
+    <!--New Products Heading-->
+    <mj-section>
+    	<mj-column>
+      	<mj-text align="center" font-family="'Noto Serif', Georgia, serif" font-size="16px" line-height="20px" padding-bottom="40px" letter-spacing="5px">
+        	POPULAR PRODUCTS
+        </mj-text>
+      </mj-column>
+    </mj-section>
+    <!--New Products-->
+    <mj-section>
+      <!--First-->
+    	<mj-column>
+        <mj-image height="250px" src="https://images.unsplash.com/photo-1567973246690-c53b46e75fa3?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&w=1000&q=80" />
+       <mj-text font-family="'Noto Serif', Georgia, serif" font-size="20px" line-height="24px" align="left" padding-bottom="15px">
+        	Cowboy Hat
+        </mj-text>
+        <mj-text color="#898989" font-family="'Raleway', Arial,sans-serif" font-size="12px" line-height="20px" align="left" padding-bottom="20px">
+        	Lorem ipsum dolor sit amet, consectetur adipiscing elit.
+        </mj-text>
+        <mj-text font-family="'Noto Serif', Georgia, serif" font-size="16px" line-height="18px" align="left" padding-bottom="20px">
+        	Price:
+          <span style="text-decoration:line-through; color:#585858;">
+            $50.00
+          </span> 
+        </mj-text>
+        <mj-button href="#" font-family="'Raleway',Arial,sans-serif"font-size="14px"line-height="18px"align="left"padding="10px"background-color="transparent"border="1px solid #000000" color="black">
+        	NEW PRICE
+        </mj-button>
+      </mj-column>
+      <!--Second-->
+      <mj-column>
+        <mj-image height="250px" src="https://images.unsplash.com/photo-1526246558489-0564a3583c4d?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&w=1000&q=80" />
+        <mj-text font-family="'Noto Serif', Georgia, serif" font-size="20px" line-height="24px" align="left" padding-bottom="15px">
+        	Yellow Dress
+        </mj-text>
+        <mj-text color="#898989" font-family="'Raleway', Arial,sans-serif" font-size="12px" line-height="20px" align="left" padding-bottom="20px">
+        	Lorem ipsum dolor sit amet, consectetur adipiscing elit.
+        </mj-text>
+        <mj-text font-family="'Noto Serif', Georgia, serif" font-size="16px" line-height="18px" align="left" padding-bottom="20px">
+        	Price:
+          <span style="text-decoration:line-through; color:#585858;">
+            $150.00
+          </span> 
+        </mj-text>
+        <mj-button href="#" font-family="'Raleway',Arial,sans-serif"font-size="14px"line-height="18px"align="left"padding="10px"background-color="transparent"border="1px solid #000000" color="black">
+        	NEW PRICE
+        </mj-button>
+      </mj-column>
+      <!--Third-->
+      <mj-column>
+        <mj-image height="250px" src="https://images.unsplash.com/photo-1516756587022-7891ad56a8cd?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&w=1000&q=80" />
+        <mj-text font-family="'Noto Serif', Georgia, serif" font-size="20px" line-height="24px" align="left" padding-bottom="15px">
+        	Denim Top
+        </mj-text>
+        <mj-text color="#898989" font-family="'Raleway', Arial,sans-serif" font-size="12px" line-height="20px" align="left" padding-bottom="20px">
+        	Lorem ipsum dolor sit amet, consectetur adipiscing elit.
+        </mj-text>
+        <mj-text font-family="'Noto Serif', Georgia, serif" font-size="16px" line-height="18px" align="left" padding-bottom="20px">
+        	Price:
+          <span style="text-decoration:line-through; color:#585858;">
+            $80.00
+          </span> 
+        </mj-text>
+        <mj-button href="#" font-family="'Raleway',Arial,sans-serif"font-size="14px"line-height="18px"align="left"padding="10px"background-color="transparent"border="1px solid #000000" color="black">
+        	NEW PRICE
+        </mj-button>
+      </mj-column>
+    </mj-section>
+    <!--Promo Section-->
+    <mj-section>
+      <mj-column background-color="#F54084" padding="30px">
+      	<mj-text color="#ffffff" font-family="Arial, sans-serif" font-size="18px" line-height="24px"align="center"padding-bottom="10px">
+        	BUY 2 ITEMS
+        </mj-text>
+        <mj-text color="#ffffff" font-family="'Noto Serif', Georgia, seriff" font-size="20px" line-height="40px"align="center"padding-bottom="10px">
+        	GET 1 FOR FREE
+        </mj-text>
+        <mj-text color="#ffffff" font-family="Arial, sans-serif" font-size="14px" line-height="24px"align="center"padding-bottom="10px">
+        	USE CODE: 12345
+        </mj-text>
+        <mj-button  color="#f54084" font-family="'Raleway', Arial,sans-serif" font-size="14px" line-height="18px"align="center"padding-bottom="10px" background-color="white" font-weight="bold" href="#">
+        	SHOP NOW
+        </mj-button>
+      </mj-column>
+      <mj-column>
+      	<mj-image height="255px" src="https://images.unsplash.com/photo-1547661870-da03846b2cce?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&w=1000&q=80" />
+      </mj-column>
+    </mj-section>
+    <!--Trending Products Geading-->
+    <mj-section>
+    	<mj-column>
+      	<mj-text align="center" font-family="'Noto Serif', Georgia, serif" font-size="18px" line-height="20px" padding-bottom="40px" letter-spacing="5px">
+          Trending Products
+        </mj-text>
+      </mj-column>
+    </mj-section>
+    <mj-section>
+      <mj-column>
+      	<mj-image src="https://images.unsplash.com/photo-1584273143981-41c073dfe8f8?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&w=1000&q=80" />
+        <mj-text font-family="'Noto Serif', Georgia, serif" font-size="22px" line-height="24px" align="left" padding-bottom="15px">
+        	Double Breasted
+        </mj-text>
+        <mj-text color="#898989" font-family="'Raleway', Arial,sans-serif" font-size="14px" line-height="20px" align="left" padding-bottom="20px">
+        	Lorem ipsum dolor sit amet, consectetur adipiscing elit. Lorem ipsum dolor sit.
+        </mj-text>
+         <mj-text font-family="'Noto Serif', Georgia, serif" font-size="16px" line-height="18px" align="left" padding-bottom="20px">
+        	Price:
+          <span style="text-decoration:line-through; color:#585858;">
+            $250.00
+          </span> 
+        </mj-text>
+        <mj-button href="#" font-family="'Raleway',Arial,sans-serif"font-size="14px"line-height="18px"align="left"padding="10px"background-color="transparent"border="1px solid #000000" color="black" padding-left="25px">
+        	Buy Now
+        </mj-button>
+      </mj-column>
+      <mj-column>
+      	<mj-image src="https://images.unsplash.com/photo-1567849840003-3883199f7efa?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&w=1000&q=80" />
+        <mj-text font-family="'Noto Serif', Georgia, serif" font-size="22px" line-height="24px" align="left" padding-bottom="15px">
+        	Pink Ombre
+        </mj-text>
+        <mj-text color="#898989" font-family="'Raleway', Arial,sans-serif" font-size="14px" line-height="20px" align="left" padding-bottom="20px">
+        	Lorem ipsum dolor sit amet, consectetur adipiscing elit. Lorem ipsum dolor sit.
+        </mj-text>
+         <mj-text font-family="'Noto Serif', Georgia, serif" font-size="16px" line-height="18px" align="left" padding-bottom="20px">
+        	Price:
+          <span style="text-decoration:line-through; color:#585858;">
+            $280.00
+          </span> 
+        </mj-text>
+        <mj-button href="#" font-family="'Raleway',Arial,sans-serif"font-size="14px"line-height="18px"align="left"padding="10px"background-color="transparent"border="1px solid #000000" color="black" padding-left="25px">
+        	Buy Now
+        </mj-button>
+      </mj-column>
+    </mj-section>
+    <!--Footer Section-->
+    <mj-section background-color="#4E54CB" padding="60px 30px">
+      <mj-column>
+      	<mj-text color="white"font-family="'Raleway', Arial, sans-serif"font-size="18px"line-height="22px"align="center"padding-bottom="30px" letter-spacing="2px">
+      	FOLLOW US
+      	</mj-text>
+         <mj-social border-radius="50px" icon-size="40px">
+          	<mj-social-element background-color="#4E54CB" name="facebook" href="#"></mj-social-element>
+           	<mj-social-element background-color="#4E54CB" name="twitter" href="#"></mj-social-element>
+           	<mj-social-element background-color="#4E54CB" name="google" href="#"></mj-social-element>
+           	<mj-social-element background-color="#4E54CB" name="youtube" href="#"></mj-social-element>
+           	<mj-social-element background-color="#4E54CB" name="pinterest" href="#"></mj-social-element>
+           	<mj-social-element background-color="#4E54CB" name="linkedin" href="#"></mj-social-element>
+         </mj-social>
+         <mj-divider border-width="1px" border-style="solid" border-color="#5e63d3" />
+        <mj-text color="#a9ace3" align="center" font-family="'Raleway', Arial,sans-serif" font-size="14px" line-height="20px" padding-top="30px">
+        	&copy;2020 0123 Wearble Art
+        </mj-text>
+        <mj-text color="#a9ace3" align="center" font-family="'Raleway', Arial,sans-serif" font-size="14px" line-height="20px">
+        	216 Fashion Street Cleveland, OH 63598-2909
+        </mj-text>
+     	</mj-column>
+    </mj-section>
+
+  </mj-body>
+</mjml>

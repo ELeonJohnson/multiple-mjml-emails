@@ -1,0 +1,19 @@
+{
+  "name": "pizza-palace",
+  "version": "1.0.0",
+  "description": "Pizza Palace MJML Email",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Enoch Johnson",
+  "license": "ISC",
+  "dependencies": {
+    "mjml": "^4.6.3"
+  },
+  "devDependencies": {
+    "browser-sync": "^2.26.7",
+    "gulp": "^4.0.2",
+    "gulp-mjml": "^4.0.2"
+  }
+}

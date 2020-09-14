@@ -1,0 +1,278 @@
+<mjml>
+    <mj-head>
+        <mj-title>Burger City</mj-title>
+        <mj-preview>Best Burgers In Town</mj-preview>
+        <mj-style>
+            .links {
+                text-decoration: none !important;
+                color: #666666 !important;
+                font-family: 'Open Sans', Arial, sans-serif !important;
+            }
+          	.orange-background {
+          		background-color: #f98f41;
+          	}
+        </mj-style>
+    </mj-head>
+    <mj-body>
+        <mj-section>
+          <!-- Right -->
+            <mj-column>
+                <mj-text>
+                    <a href="/" class="links" 
+                       style="border-right: 1px solid #666666; 
+                              padding-right: 10px;">
+                      VISIT OUR SITE
+                  	</a>
+                  	<a href="/" class="links" style="padding-left: 10px">
+                      VIEW ONLINE
+                  	</a>
+                </mj-text> 
+            </mj-column>
+          	<!-- Left -->
+          	<mj-column>
+          		<mj-text>
+              	<p style="margin: 0;">ORDER NOW AT 
+                  <a style="color:#b92d38; text-decoration:none;" href="/">
+                    (123) 456 789
+                  </a>
+                </p>
+              </mj-text>
+          	</mj-column>
+        </mj-section>
+      	
+      	<mj-section css-class="orange-background">
+      		<mj-column>
+          	<mj-text>
+            	<h1 style="color: #F4F2F4; text-align: center; margin: 0 auto; 
+              font-size:4em">
+                Burger City
+              </h1>
+              <h3 style="color: #F4F2F4; text-align:center; font-size:1.5em">
+                24/7 FAST FOOD DELIVERY
+              </h3>
+            </mj-text>
+          </mj-column>      	
+      	</mj-section>
+      	
+      	<!--Always Fresh Section-->
+      	<mj-section>
+          <!--Always Fresh Text Column-->
+      		<mj-column>
+          	<mj-text>
+            	<h1 style="font-size: 34px; color: #b92d38; line-height:40px; font-family: 'Roboto Slab', Georgia, serif padding-bottom: 30px">Always Fresh And Delicious Burgers</h1>
+            </mj-text>
+            <mj-text>
+            	<h3 style="font-size: 14px; color: #666666; font-family: 'Roboto Slab', Georgia, serif; line-height: 24px; padding-bottom: 30px" >
+                EXTRA CRISPY
+              </h3>
+            </mj-text>
+            <mj-text>
+            	<p style="font-size: 16px; color:#777777; font-family:Arial, sans-serif; line-height: 30px; padding-bottom: 30px ">
+                Lorem ipsum dolor sit amet conse ctetur adipisicing elit, sed do 									eiusmod tempor incididunt
+              </p>
+            </mj-text>
+            <mj-button background-color="#f98f41" font-family="'Roboto Slab', Georgia, serif" font-size="16px" line-height="20px" font-weight="bold" padding="14px 20px" align="left" href="/">
+            	ORDER NOW
+            </mj-button>
+          </mj-column>
+          
+          <!-- Always Fresh Image Column -->
+          <mj-column>
+          	<mj-image width="300px" height="600px" src="https://p2.piqsels.com/preview/812/478/565/burger-sandwich-salad-vegan.jpg" />
+          </mj-column>
+      	</mj-section>
+      	
+      	<!--Chicken Image Column-->
+      	<mj-section>
+  				<mj-column>
+  					<mj-image src="https://c1.wallpaperflare.com/preview/489/87/766/ham-burger-sandwich-food.jpg" height="550px"/>
+  				</mj-column>
+      	</mj-section>
+      
+      <!--Chicken Desc-->
+      	<mj-section>
+      		<mj-column>
+          	<mj-text>
+            	<h1 style="color:#b92d38; font-family:'Roboto Slab', Georgia, serif; font-size: 35px; line-height: 40px; text-align: center;">MONSTER-SIZED CHICKEN SANDWHICHES</h1>
+            </mj-text>
+            <mj-text>
+            	<h3 style="text-align: center; color:#666666; font-family:'Roboto Slab', Georgia, serif; font-size: 14px; line-height:24px; ">
+              	SEASONED TO PERFECTION
+              </h3>
+            </mj-text>
+            <mj-text>
+            	<p style="color:#777777; font-family:Arial, sans-serif; font-size: 16px; line-height: 30px; text-align:center">
+              	Lorem ipsum dolor sit amet conse ctetur adipisicing elit, sed do
+eiusmod tempor incididunt.
+              </p>
+            </mj-text>
+             <mj-button background-color="#f98f41" font-family="'Roboto Slab', Georgia, serif" font-size="16px" line-height="20px" font-weight="bold" padding="14px 20px" align="center" href="/">
+               ORDER NOW
+            </mj-button>
+          </mj-column>
+      	</mj-section>
+      	
+      	<!-- Sandwich Image Column -->
+      	<mj-section>
+      		<mj-column>
+          	<mj-image src="https://c1.wallpaperflare.com/preview/970/739/764/sandwich-vegetarian-healthy-panini.jpg" align="left" width="325px" height="450px" />
+          </mj-column>
+          
+          <!--Sandwhich Desc-->
+          <mj-column>
+          	<mj-text>
+            	<h1 style="color:#b92d38; font-family:'Roboto Slab', Georgia, serif; font-size:35px; line-height:40px; text-align:left;">Freshly Picked Veggie Sandwhiches</h1>
+            </mj-text>
+            <mj-text>
+            	<h3 style="color:#666666; font-family:'Roboto Slab', Georgia, serif; font-size: 14px; line-height: 24px; text-align:left;">FRESH BAKED BREAD</h3>
+            </mj-text>
+            <mj-text>
+            	<p style="color: #777777; font-family: Arial, sans-serif; font-size: 16px; line-height: 30px; line-height: left;">
+              	Lorem ipsum dolor sit amet conse ctetur adipisicing elit, sed do eiusmod tempor incididunt.
+              </p>
+            </mj-text>
+            <mj-button background-color="#f98f41" font-family="'Roboto Slab', Georgia, serif" font-size="16px" line-height="20px" font-weight="bold" padding="14px 20px" align="left" href="/">
+               ORDER NOW
+            </mj-button>
+          </mj-column>
+      	</mj-section>
+      
+      	<!-- Specials -->
+      	<mj-section>
+      		 	<mj-column>
+      		<mj-text>
+          	<h1 style="text-align:center; color: #b92d38; font-family: 'Roboto Slab', Georgia, serif; font-size:35px; line-height:40px;">
+            	More Of Burger City Specials
+            </h1>
+          </mj-text>
+          <mj-text>
+              <h3 style="color:#666666; font-family:'Roboto Slab', Georgia, serif; font-size: 14px; line-height:24px; text-align:center">
+            		SOME OF OUR OWN RECIPES
+           		</h3>
+          </mj-text>
+      	</mj-column>
+      	</mj-section>
+      	
+      	<!--Two Specials-->
+      	<mj-section>
+      		<!-- Recipe One-->
+          <mj-column>
+          	<mj-image src="https://p1.pxfuel.com/preview/653/802/397/cake-apple-cake-food-dessert-homemade-cinnamon.jpg" height="250px" />
+            <mj-text>
+            	<h1 style="color:#b92d38; font-family:'Roboto Slab', Georgia, serif; font-size:22px; line-height:32px;">
+              	Lorem ipsum dolor sit amet, consectetur
+              </h1>
+            </mj-text>
+            <mj-text>
+            	<p style="color:#777777; font-family:Arial, sans-serif; font-size:16px; line-height:30px; padding-bottom:10px;">
+              	Lorem ipsum dolor sit amet conse ctetur adipisicing elit, sed do eiusmod tempor incididunt.
+              </p>
+            </mj-text>
+            <mj-button background-color="#f98f41" font-family="'Roboto Slab', Georgia, serif" font-size="16px" line-height="20px" font-weight="bold" padding="14px 20px" align="left" href="/">
+               ORDER NOW
+            </mj-button>
+          </mj-column>
+          
+          <!--Recipe Two-->
+          <mj-column>
+          	<mj-image src="https://c1.peakpx.com/wallpaper/553/872/50/eat-burger-onion-avocado-veggi-wallpaper-preview.jpg" height="250px" />
+            <mj-text>
+            	<h1 style="color:#b92d38; font-family:'Roboto Slab', Georgia, serif; font-size:22px; line-height:32px;">
+              	Lorem ipsum dolor sit amet, consectetur
+              </h1>
+            </mj-text>
+             <mj-text>
+            	<p style="color:#777777; font-family:Arial, sans-serif; font-size:16px; line-height:30px; padding-bottom:10px;">
+              	Lorem ipsum dolor sit amet conse ctetur adipisicing elit, sed do eiusmod tempor incididunt.
+              </p>
+            </mj-text>
+                      <mj-button background-color="#f98f41" font-family="'Roboto Slab', Georgia, serif" font-size="16px" line-height="20px" font-weight="bold" padding="14px 20px" align="left" href="/">
+               ORDER NOW
+            </mj-button>
+          </mj-column>
+      	</mj-section>
+      
+      	<!--Order Through-->
+      	<mj-section css-class="orange-background">
+      		<mj-column>
+          	<mj-text>
+            	<h1 style="font-family:'Roboto Slab', Georgia, serif; font-size:35px; line-height:40px; text-align:center; color:#ffffff; padding-top: 30px">Order Through Our Website</h1>
+            </mj-text>
+            <mj-text>
+            	<h3 style="font-family:'Roboto Slab', Georgia, serif; font-size:14px; line-height:24px; text-align:center; color: #ffffff">AND GET 10% OFF</h3>
+            </mj-text>
+            <mj-text>
+            	<h3 style="font-family:Arial, sans-serif; font-size:16px; line-height:30px; text-align:center; color:#ffffff; padding-bottom: 30px">
+              	Lorem ipsum dolor sit amet conse ctetur adipisicing elit, sed do
+eiusmod tempor incididunt.
+              </h3>
+            </mj-text>
+            <mj-button background-color="#ffffff" color="#f98f41" font-family="'Roboto Slab', Georgia, serif" font-size="16px" line-height="20px" font-weight="bold" padding="14px 20px" align="center" href="/">
+               ORDER NOW
+            </mj-button>
+          </mj-column>
+      	</mj-section>
+      
+      	<!--Contact Us-->
+      	<mj-section>
+      		<mj-column>
+          	<!--Left-->
+            <mj-text>
+            	<h1 style="color:#b92d38; font-family:'Roboto Slab', Georgia, serif; font-size:35px; line-height:40px; text-align:left; margin-top:75px">Contact Us</h1>
+            </mj-text>
+            <mj-text>
+            	<h3 style="color:#999999; font-family:Arial, sans-serif; font-size:14px; line-height:28px; text-align:left; padding-bottom:25px;">
+              	Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam
+              </h3>
+            </mj-text>
+             <mj-social align="left" font-size="15px" icon-size="30px" mode="horizontal">
+                <mj-social-element background-color="#f98f41"  border-radius="50px" name="facebook" href="/"></mj-social-element>
+                <mj-social-element background-color="#f98f41" border-radius="50px" name="twitter" href="/"></mj-social-element>
+                <mj-social-element background-color="#f98f41" border-radius="50px" name="instagram" href="/"></mj-social-element>
+                <mj-social-element background-color="#f98f41" border-radius="50px" name="linkedin" href="/"></mj-social-element>
+              </mj-social>
+          </mj-column>
+          
+          <!--Right-->
+          <mj-column>
+          	<mj-image padding-left="35px" align="left" width="25px" height="45px" src="https://www.kindpng.com/picc/m/23-235501_orange-map-pin-orange-map-pin-icon-hd.png" />
+            <mj-text>
+            	<p style="color:#999999; font-family:Arial, sans-serif; font-size:16px; line-height:28px; text-align:left;">
+              	123 4th Dr.
+              </p>
+            </mj-text>
+            <mj-text>
+            	<p style="color:#999999; font-family:Arial, sans-serif; font-size:16px; line-height:28px; text-align:left;">
+              	Cleveland, OH 12345
+              </p>
+            </mj-text>
+            
+            <mj-image align="left" width="58px" height="45px" src="https://www.seekpng.com/png/detail/95-953439_icon-email-orange-white-oak-swimming-club.png" />
+            <mj-text>
+          		<p style="color:#999999; font-family:Arial, sans-serif; font-size:16px; line-height:28px; text-align:left;">burgercity@gmail.com</p>
+          	</mj-text>
+            <mj-image padding-left="35px" align="left" width="25px" height="45px" src="https://i.dlpng.com/static/png/6995925_preview.png" />
+            <mj-text>
+          	<a style="color:#999999; font-family:Arial, sans-serif; font-size:16px; line-height:28px; text-align:left;">(123) 456-789</a>
+          </mj-text>
+          </mj-column>
+      	</mj-section>
+      	
+      	<!--Footer-->
+      	<mj-section>
+      		<mj-column>
+            <mj-text>
+            	<h1 style="color:#666666; font-size:16px; font-family:Arial, sans-serif; line-height:26px; text-align:center;">Burger City Email - By Enoch Johnson</h1>
+            </mj-text>
+            <mj-text>
+            	<h1 style="color:#666666; font-size:16px; font-family:Arial, sans-serif; line-height:26px; text-align:center;">Lorem ipsum Bld. 99, Ipsum City 9000, Lorem of Ipsum</h1>
+            </mj-text>
+            <mj-text>
+            	<p style="color:#666666; font-size:16px; font-family:Arial, sans-serif; line-height:26px; text-align:center;">
+              	<a style="color:#666666;" href="/">Unsubscribe</a> from this mailing list.
+              </p>
+            </mj-text>
+          </mj-column>
+      	</mj-section>
+    </mj-body>
+</mjml>

@@ -1,0 +1,263 @@
+<mjml>
+  <mj-head>
+        <mj-title>Pizza Palace</mj-title>
+        <mj-preview>New World Of Pizza</mj-preview>
+  </mj-head>
+  <mj-body>
+    <!--Header Section-->
+    <mj-section>
+      <mj-column>
+        <mj-text>
+        	<p style="color:#737373; font-family:Arial, sans-serif; font-size:12px; line-height:16px; text-align:right;">No Images? <a style="color:#737373;" href="/">Open In Your Browser</a></p>
+        </mj-text>
+      </mj-column>
+      <mj-column>
+      	<mj-button font-family="'Playfair Display', Georgia, serif" font-size="14px" line-height="18px" text-align="center" font-weight="bold" padding="14px 20px" border-radius="20px" background-color="#fd6464" color="#1e1e1e" >
+          <a href="#" style="text-decoration:none; color:#1e1e1e;">VISIT OUR WEBSITE</a>
+        </mj-button>
+      </mj-column>
+    </mj-section>
+    
+    <!--Pizza Image-->
+    <mj-section>
+    	<mj-column>
+      	<mj-image src="https://images.unsplash.com/photo-1559978137-8c560d91e9e1?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=1000&q=80" />
+      </mj-column>
+    </mj-section>
+    
+    <!--Promo Section-->
+    <mj-section background-color="#fd6464">
+    	<mj-column>
+      	<mj-text>
+        	<h1 style="text-align:center; color: white; font-family:'Playfair Display', Georgia, serif; font-size:30px; line-height:46px; font-weight:bold;">-Promo Of The Day-</h1>
+        </mj-text>
+        <mj-text>
+        	<p style="font-family:Arial, sans-serif; font-size:14px; line-height:26px; text-align:center; color:white;">
+          	Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor
+incididunt ut labore et dolore magna aliqua.
+          </p>
+        </mj-text>
+      </mj-column>
+    </mj-section>
+    
+    <!--Most Ordered-->
+    <mj-section>
+    	<mj-column>
+      	<mj-text>
+        	<h1 style="background-color:#72b314; text-align:center; color: white; font-family:'Playfair Display', Georgia, serif; font-size:22px; line-height:32px; font-weight:bold; padding: 15px;">-This Week's Most Ordered-</h1>
+        </mj-text>
+      </mj-column>
+    </mj-section>
+    
+    <mj-section>
+    <!--First Ordered-->
+      <mj-column>
+      	<mj-image height="100px" src="https://images.unsplash.com/photo-1528137871618-79d2761e3fd5?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&w=1000&q=80" />
+       	<mj-text>
+        	<h1 style="color: #000000; font-family:'Playfair Display', Georgia, serif; font-size:20px; line-height:24px; font-weight:bold; text-align: center;">
+          	Lorem ipsum dolor sit amet
+          </h1>
+        </mj-text>
+        <mj-text>
+        	<p style="color:#72b314; font-family:Arial, sans-serif; font-size:22px; line-height:32px; text-align:center;">
+          	$5.75
+          </p>
+        </mj-text>
+        <mj-text>
+        	<p style="color:#999999; font-family:Arial, sans-serif; font-size:14px; line-height:26px; text-align:center; padding-bottom:20px;">
+          	Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod.
+          </p>
+        </mj-text>
+        <mj-button background-color="#72b314" font-family="Playfair Display, Georgia, serif" font-size="14px" line-height="18px" text-align="center" font-weight="bold" padding="14px 20px" border-radius="20px">
+        	<a href="#" style="text-decoration:none; color:white">
+          	ORDER 
+          </a>
+        </mj-button>
+      </mj-column>
+    <!--Second Ordered-->
+      <mj-column>
+      	<mj-image height="100px" src="https://images.unsplash.com/photo-1564936281291-294551497d81?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&w=1000&q=80" />
+        <mj-text>
+        	<h1 style="color: #000000; font-family:'Playfair Display', Georgia, serif; font-size:20px; line-height:24px; font-weight:bold; text-align: center;">
+          	Lorem ipsum dolor sit amet
+          </h1>
+        </mj-text>
+        <mj-text>
+        	<p style="color:#72b314; font-family:Arial, sans-serif; font-size:22px; line-height:32px; text-align:center;">
+          	$5.75
+          </p>
+        </mj-text>
+        <mj-text>
+        	<p style="color:#999999; font-family:Arial, sans-serif; font-size:14px; line-height:26px; text-align:center; padding-bottom:20px;">
+          	Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod.
+          </p>
+        </mj-text>
+        <mj-button background-color="#72b314" font-family="Playfair Display, Georgia, serif" font-size="14px" line-height="18px" text-align="center" font-weight="bold" padding="14px 20px" border-radius="20px">
+        	<a href="#" style="text-decoration:none; color:white">
+          	ORDER 
+          </a>
+        </mj-button>
+      </mj-column>
+     <!--Third Ordered-->
+      <mj-column>
+      	<mj-image height="100px" src="https://images.unsplash.com/photo-1576458088443-04a19bb13da6?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&w=1000&q=80" />
+        <mj-text>
+        	<h1 style="color: #000000; font-family:'Playfair Display', Georgia, serif; font-size:20px; line-height:24px; font-weight:bold; text-align: center;">
+          	Lorem ipsum dolor sit amet
+          </h1>
+        </mj-text>
+        <mj-text>
+        	<p style="color:#72b314; font-family:Arial, sans-serif; font-size:22px; line-height:32px; text-align:center;">
+          	$5.75
+          </p>
+        </mj-text>
+        <mj-text>
+        	<p style="color:#999999; font-family:Arial, sans-serif; font-size:14px; line-height:26px; text-align:center; padding-bottom:20px;">
+          	Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod.
+          </p>
+        </mj-text>
+        <mj-button background-color="#72b314" font-family="Playfair Display, Georgia, serif" font-size="14px" line-height="18px" text-align="center" font-weight="bold" padding="14px 20px" border-radius="20px">
+        	<a href="#" style="text-decoration:none; color:white">
+          	ORDER 
+          </a>
+        </mj-button>
+      </mj-column>
+    </mj-section>
+    
+    <!--Brand New Taste-->
+    <mj-section>
+    	<mj-column>
+        <mj-text>
+        	<h1 style="text-align:center; color:black; font-family:'Playfair Display', Georgia, serif; font-size:22px; line-height:32px; font-weight:bold;">-Brand New Tastes-</h1>
+        </mj-text>
+      </mj-column>
+    </mj-section>
+    
+    <mj-section>
+      <!--First Taste-->
+    	<mj-column>
+      	<mj-image height="170px" src="https://images.unsplash.com/photo-1542834369-f10ebf06d3e0?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&w=1000&q=80" />
+        <mj-text>
+        	<h1 style="color:black; font-family:'Playfair Display', Georgia, serif; font-size:22px; line-height:32px; font-weight:bold; text-align:center;">Lorem ipsum dolor sit</h1>
+        </mj-text>
+        <mj-text>
+        	<h1 style="color:#999999; font-family:Arial, sans-serif; font-size:14px; line-height:26px; text-align:center;">
+          	Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod.
+          </h1>
+        </mj-text>
+        <mj-button font-family="'Playfair Display', Georgia, serif" font-size="14px" line-height="18px" font-weight="bold" padding="14px 20px" border-radius="20px" background-color="#fd6464">
+        	<a href="#" style="color:white; text-decoration:none;">FIND OUT MORE</a>
+        </mj-button>
+      </mj-column>
+      <!--Second Taste-->
+    	<mj-column>
+      	<mj-image height="170px" src="https://images.unsplash.com/photo-1490717064594-3bd2c4081693?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&w=1000&q=80" />
+      <mj-text>
+      	<h1 style="color:black; font-family:'Playfair Display', Georgia, serif; font-size:22px; line-height:32px; font-weight:bold; text-align:center;">Lorem ipsum dolor sit</h1>
+      </mj-text>
+       <mj-text>
+       	<h1 style="color:#999999; font-family:Arial, sans-serif; font-size:14px; line-height:26px; text-align:center;">Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod.
+        </h1>
+        </mj-text>
+        <mj-button font-family="'Playfair Display', Georgia, serif" font-size="14px" line-height="18px" font-weight="bold" padding="14px 20px" border-radius="20px" background-color="#fd6464">
+        	<a href="#" style="color:white; text-decoration:none;">FIND OUT MORE</a>
+        </mj-button>
+      </mj-column>
+    </mj-section>
+    
+    <!--Something To Say-->
+    <mj-section>
+    	<mj-column>
+      	<mj-text>
+        	<h1 style="color: #000000;font-family: 'Playfair Display', Georgia, serif;font-size: 22px;line-height: 32px;text-align: left;font-weight: bold;">
+						We’ve Got Something To Say
+          </h1>
+        </mj-text>
+        <mj-text>
+        	<p style="color: #999999;font-family: Arial, sans-serif;font-size: 14px;line-height: 26px;text-align: left;">
+          	Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.
+          </p>
+        </mj-text>
+      </mj-column>
+    </mj-section>
+
+    
+    <!--Loyal Customers-->
+    <mj-section background-color="#fd6464">
+      <mj-column>
+      	<mj-text>
+        	<h1 style="font-family: 'Playfair Display', Georgia, serif;font-size: 30px;line-height: 46px;font-weight: bold;color: #ffffff;text-align: center;">-10% Off For Loyal Customers-</h1>
+        </mj-text>
+        <mj-text>
+        	<h1 style="font-family: Arial, sans-serif;font-size: 14px;line-height: 26px;text-align: center;color: #ffffff;">
+          	Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor
+incididunt ut labore et dolore magna aliqua.
+          </h1>
+        </mj-text>
+      </mj-column>
+    </mj-section>
+    
+    <!--Find Us-->
+    <mj-section>
+    	<mj-column>
+      	<mj-text>
+        	<h1 style="color: #000000;font-family: 'Playfair Display', Georgia, serif;font-size: 30px;line-height: 46px;text-align: left;font-weight: bold;">Where To Find Us</h1>
+        </mj-text>
+        <mj-text>
+        	<p style="color: #999999;font-family: Arial, sans-serif;font-size: 14px;line-height: 26px;text-align: left;">
+          	Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
+          </p>
+        </mj-text>
+      </mj-column>
+    </mj-section>
+    
+    <!--Locations-->
+    <mj-section>
+    	<mj-column>
+      	<mj-image align="left" height="25px" width="25px" src="https://cdn1.iconfinder.com/data/icons/color-bold-style/21/14_2-512.png" />
+      	<mj-text align="left">
+        	<p style="color: #999999;font-family: Arial, sans-serif;font-size: 14px;line-height: 26px;text-align: left;">
+          		East West Bld. 99,
+							Pizza World 9000
+							Pizza Palace Place
+          </p>
+        </mj-text>
+      </mj-column>
+
+      <mj-column>
+      	<mj-image align="left" height="25px" width="25px" src="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcRDug-5MrzTVcpATYU9b-RFa3RPeDMvNnA6mN0IAdg_mAF3mwW3&usqp=CAU" />
+        <mj-text>
+        	<a style="color: #999999;text-decoration: none;font-family: Arial, sans-serif;font-size: 20px;line-height: 28px;text-align: left;" href="#">(123) 456-7899</a>
+        </mj-text>
+      </mj-column>
+    </mj-section>
+    
+    <!--Socials-->
+    <mj-section>
+    	<mj-column>
+      	<mj-social>
+        	<mj-social-element padding="20px" background-color="#AFAFAF" name="facebook" href="#"></mj-social-element>
+          <mj-social-element padding="20px" background-color="#AFAFAF" name="twitter" href="#"></mj-social-element>
+          <mj-social-element padding="20px" background-color="#AFAFAF" name="instagram" href="#"></mj-social-element>
+          <mj-social-element padding="20px" background-color="#AFAFAF" name="linkedin" href="#"></mj-social-element>
+        </mj-social>
+      </mj-column>
+    </mj-section>
+    	<!--Footer-->
+      	<mj-section>
+      		<mj-column>
+            <mj-text>
+            	<h1 style="color:#AFAFAF; font-size:16px; font-family:Arial, sans-serif; line-height:26px; text-align:center;">Pizza Palace Email - By Enoch Johnson</h1>
+            </mj-text>
+            <mj-text>
+            	<h1 style="color:#AFAFAF; font-size:16px; font-family:Arial, sans-serif; line-height:26px; text-align:center;">Lorem ipsum Bld. 99, Ipsum City 9000, Lorem of Ipsum</h1>
+            </mj-text>
+            <mj-text>
+            	<p style="color:#AFAFAF; font-size:16px; font-family:Arial, sans-serif; line-height:26px; text-align:center;">
+              	<a style="color:#AFAFAF;" href="/">Unsubscribe</a> from this mailing list.
+              </p>
+            </mj-text>
+          </mj-column>
+      	</mj-section>
+  </mj-body>
+</mjml>
